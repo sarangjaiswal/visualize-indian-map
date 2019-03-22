@@ -2,6 +2,7 @@
   <dictionary name="sarangjaiswal">
     <words>
       <w>folium</w>
+      <w>geonames</w>
       <w>geopackage</w>
       <w>geopandas</w>
     </words>
