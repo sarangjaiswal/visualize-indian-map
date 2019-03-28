@@ -22,9 +22,11 @@ gdf_shp_maharashtra = gdf_shp_state.query("state=='MAHARASHTRA'")
 # print(gdf_shp_state.loc[gdf_shp_state.state == 'MAHARASHTRA'])
 # print(gdf_shp_state[gdf_shp_state.state == 'MAHARASHTRA'])
 
-
 # convert the geopandas data to geojson and add to map
 folium.GeoJson(gdf_shp_maharashtra).add_to(m)
+
+#  convert the geopandas data to geojson and add to map
+# folium.GeoJson(gdf_shp_state).add_to(m)
 
 # save map
 m.save(map_path)

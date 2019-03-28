@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../DataFront/.idea/datafront.iml" filepath="$PROJECT_DIR$/../DataFront/.idea/datafront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../indian-political-donors/.idea/indian-political-donors.iml" filepath="$PROJECT_DIR$/../indian-political-donors/.idea/indian-political-donors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../indian-ruling-parties/.idea/indian-ruling-parties.iml" filepath="$PROJECT_DIR$/../indian-ruling-parties/.idea/indian-ruling-parties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../playground/.idea/playground.iml" filepath="$PROJECT_DIR$/../playground/.idea/playground.iml" />
       <module fileurl="file://$PROJECT_DIR$/../property-rates-india/.idea/property-rates-india.iml" filepath="$PROJECT_DIR$/../property-rates-india/.idea/property-rates-india.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/visualize-indian-map.iml" filepath="$PROJECT_DIR$/.idea/visualize-indian-map.iml" />
     </modules>

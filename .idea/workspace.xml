@@ -2,18 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26005552-5ec8-4dc1-8984-21e0ca0cecc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/convert_indian_geonames_data_to_sqlite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../property-rates-india/.idea/dictionaries/jaiswals.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/.idea/dictionaries/jaiswals.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../property-rates-india/99Acers_Rental_Price.py" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/99Acers_Rental_Price.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../property-rates-india/Makaan_Rental_Price.py" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/Makaan_Rental_Price.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../property-rates-india/azure-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/azure-pipelines.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../property-rates-india/csv/99acres_price.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/csv/99acres_price.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../property-rates-india/csv/makaan_price.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/csv/makaan_price.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../property-rates-india/logs/property-rates-india.log" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/logs/property-rates-india.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/sarangjaiswal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/sarangjaiswal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../indian-political-donors/.idea/dictionaries/sarangjaiswal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../indian-political-donors/Scrape_Donor_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/state_color.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot_and_color_indian_state_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../indian-ruling-parties/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../indian-ruling-parties/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../indian-ruling-parties/VisualizeRulingPartyHistory.py" beforeDir="false" afterPath="$PROJECT_DIR$/../indian-ruling-parties/VisualizeRulingPartyHistory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../indian-ruling-parties/maps/ruling_political_party_in_india.html" beforeDir="false" afterPath="$PROJECT_DIR$/../indian-ruling-parties/maps/ruling_political_party_in_india.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property-rates-india/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jaiswals.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jaiswals.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/visualize-indian-map.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/visualize-indian-map.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/indian_boundary_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/maps/indian_boundary_map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/indian_state_boundary_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/maps/indian_state_boundary_map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_indian_boundary_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot_indian_boundary_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_indian_state_boundary_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot_indian_state_boundary_map.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +29,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/visualize_indian_map$plot_and_color_indian_state_map.coverage" NAME="plot_and_color_indian_state_map Coverage Results" MODIFIED="1553616413916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualize_indian_map$plot_indian_state_boundary_map.coverage" NAME="plot_indian_state_boundary_map Coverage Results" MODIFIED="1553166175632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualize_indian_map$VisualizeIndia__1_.coverage" NAME="VisualizeIndia (1) Coverage Results" MODIFIED="1553166787151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/visualize_indian_map$convertToSqlite.coverage" NAME="convertToSqlite Coverage Results" MODIFIED="1553259575065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/visualize_indian_map$plot_all_indian_disctrict_boundary_map.coverage" NAME="plot_all_indian_disctrict_boundary_map Coverage Results" MODIFIED="1553166388690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualize_indian_map$VisualizeIndia.coverage" NAME="VisualizeIndia Coverage Results" MODIFIED="1553023631803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/visualize_indian_map$IndianPoliticalParties.coverage" NAME="IndianPoliticalParties Coverage Results" MODIFIED="1553630934632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../indian-ruling-parties" />
+    <SUITE FILE_PATH="coverage/visualize_indian_map$plot_all_indian_disctrict_boundary_map.coverage" NAME="plot_all_indian_disctrict_boundary_map Coverage Results" MODIFIED="1553166388690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/visualize_indian_map$convertToSqlite.coverage" NAME="convertToSqlite Coverage Results" MODIFIED="1553259575065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/visualize_indian_map$Flask_____DataFront_run_py_.coverage" NAME="Flask (../DataFront/run.py) Coverage Results" MODIFIED="1553791232917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -39,42 +49,46 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gadm36_IND" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gadm36_IND" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gadm36_IND [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gadm36_IND [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gadm36_IND [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gadm36_IND [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/convert_indian_geonames_data_to_sqlite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-              <folding>
-                <element signature="e#87#106#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/IN/IN.txt">
-          <provider selected="true" editor-type-id="LargeFileEditor">
-            <state relative-caret-position="30">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../property-rates-india/99Acers_Rental_Price.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
-              <folding>
-                <element signature="e#87#106#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/plot_map.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -90,6 +104,7 @@
     <findStrings>
       <find>S.PSTB</find>
       <find>421301</find>
+      <find>chh</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,15 +117,33 @@
         <option value="$PROJECT_DIR$/VisualizeIndia.py" />
         <option value="$PROJECT_DIR$/plot_indian_boundary_map.py" />
         <option value="$PROJECT_DIR$/plot_indian_state_boundary_map.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/plot_all_indian_disctrict_boundary_map.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/convertToSqlite.py" />
         <option value="$PROJECT_DIR$/convert_indian_geonames_data_to_sqlite.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/testFolium.py" />
+        <option value="$PROJECT_DIR$/data/state_color.csv" />
+        <option value="$PROJECT_DIR$/plot_and_color_indian_state_map.py" />
+        <option value="$PROJECT_DIR$/../indian-ruling-parties/IndianPoliticalParties.py" />
+        <option value="$PROJECT_DIR$/../indian-ruling-parties/requirements.txt" />
+        <option value="$PROJECT_DIR$/../indian-ruling-parties/README.md" />
+        <option value="$PROJECT_DIR$/../indian-ruling-parties/data/IndianPoliticalPartyList.csv" />
+        <option value="$PROJECT_DIR$/../indian-ruling-parties/VisualizeRulingPartyHistory.py" />
+        <option value="$PROJECT_DIR$/../playground/README.md" />
+        <option value="$PROJECT_DIR$/../playground/Bokeh/HelloWorldBokeh.py" />
+        <option value="$PROJECT_DIR$/../playground/Bokeh/cars.csv" />
+        <option value="$PROJECT_DIR$/../playground/Bokeh/cars_bokeh.py" />
+        <option value="$PROJECT_DIR$/../playground/Bokeh/cars_simple.py" />
+        <option value="$PROJECT_DIR$/../playground/Bokeh/cars_columnDatasource.py" />
+        <option value="$PROJECT_DIR$/../playground/Bokeh/cars_tooltips.py" />
+        <option value="$PROJECT_DIR$/../indian-political-donors/scrape.py" />
+        <option value="$PROJECT_DIR$/../indian-political-donors/Scrape_Donor_List.py" />
+        <option value="$PROJECT_DIR$/plot_map.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="976" />
@@ -123,46 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="visualize-indian-map" type="b2602c69:ProjectViewProjectNode" />
-              <item name="visualize-indian-map" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="visualize-indian-map" type="b2602c69:ProjectViewProjectNode" />
-              <item name="visualize-indian-map" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="visualize-indian-map" type="b2602c69:ProjectViewProjectNode" />
-              <item name="visualize-indian-map" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="IN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="visualize-indian-map" type="b2602c69:ProjectViewProjectNode" />
-              <item name="visualize-indian-map" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="visualize-indian-map" type="b2602c69:ProjectViewProjectNode" />
-              <item name="property-rates-india" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="visualize-indian-map" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="visualize-indian-map" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -178,22 +171,37 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="visualize-indian-map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualize-indian-map" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../indian-political-donors" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jaiswals\Dropbox\Workspace\Python\indian-ruling-parties" />
+      <recent name="C:\Users\jaiswals\Dropbox\Workspace\Python\indian-ruling-parties\data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaiswals\Dropbox\Workspace\Python\indian-ruling-parties" />
+      <recent name="C:\Users\jaiswals\Dropbox\Workspace\Python\visualize-indian-map\data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data/img" />
       <recent name="$PROJECT_DIR$/maps" />
-      <recent name="$PROJECT_DIR$/data/maps" />
-      <recent name="C:\Users\jaiswals\Dropbox\Workspace\Python\visualize-indian-map" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,124 +216,127 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.convertToSqlite">
-    <configuration name="VisualizeIndia (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="visualize-indian-map" />
+  <component name="RunManager" selected="Python.Scrape_Donor_List">
+    <configuration name="Scrape_Donor_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="indian-political-donors" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../indian-political-donors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_indian_boundary_map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../indian-political-donors/Scrape_Donor_List.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VisualizeIndia" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="visualize-indian-map" />
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="property-rates-india" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\jaiswals\Dropbox\Workspace\Python\visualize-indian-map\VisualizeIndia.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="convertToSqlite" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="visualize-indian-map" />
+    <configuration name="cars_columnDatasource" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="playground" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../playground/Bokeh" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert_indian_geonames_data_to_sqlite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../playground/Bokeh/cars_columnDatasource.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot_all_indian_disctrict_boundary_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="visualize-indian-map" />
+    <configuration name="cars_simple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="playground" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../playground/Bokeh" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_all_indian_disctrict_boundary_map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../playground/Bokeh/cars_simple.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot_indian_state_boundary_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="visualize-indian-map" />
+    <configuration name="scrape" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="indian-political-donors" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../indian-political-donors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_indian_state_boundary_map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../indian-political-donors/scrape.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (../DataFront/run.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="datafront" />
+      <option name="target" value="$PROJECT_DIR$/../DataFront/run.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.convertToSqlite" />
-        <item itemvalue="Python.VisualizeIndia (1)" />
-        <item itemvalue="Python.plot_all_indian_disctrict_boundary_map" />
-        <item itemvalue="Python.plot_indian_state_boundary_map" />
-        <item itemvalue="Python.VisualizeIndia" />
+        <item itemvalue="Python.Scrape_Donor_List" />
+        <item itemvalue="Python.scrape" />
+        <item itemvalue="Flask server.Flask (../DataFront/run.py)" />
+        <item itemvalue="Python.cars_columnDatasource" />
+        <item itemvalue="Python.cars_simple" />
       </list>
     </recent_temporary>
   </component>
@@ -343,40 +354,70 @@
       <workItem from="1553130516720" duration="925000" />
       <workItem from="1553165414620" duration="2548000" />
       <workItem from="1553179590168" duration="1947000" />
-      <workItem from="1553259020117" duration="919000" />
+      <workItem from="1553259020117" duration="1731000" />
+      <workItem from="1553287233407" duration="135000" />
+      <workItem from="1553529815820" duration="11263000" />
+      <workItem from="1553572020259" duration="44000" />
+      <workItem from="1553612861995" duration="36261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26590000" />
+    <option name="totallyTimeSpent" value="75105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1898657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3167421" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52611583" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39981008" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32953465" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.33618233" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30542988" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32953465" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20702754" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32953465" />
+      <window_info anchor="bottom" id="Python Console" order="13" visible="true" weight="0.22981957" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.17643468" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.24295774" weight="0.14765458" />
+      <window_info anchor="right" x="0" y="0" width="434" height="986" id="Documentation" order="5" sideWeight="0.7570422" side_tool="true" weight="0.282516" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19088319" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39981008" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.33618233" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32953465" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3580247" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="13" visible="true" weight="0.47008547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.24295774" weight="0.14765458" />
+      <window_info anchor="right" x="0" y="0" width="434" height="986" id="Documentation" order="5" sideWeight="0.7570422" side_tool="true" weight="0.282516" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -399,13 +440,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/geopandas/geoseries.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/geopandas/__init__.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pandas/core/frame.py" />
-    <entry file="das://23167c62-6739-4791-94a8-0fd8a34d125b/schema/main/table/gadm36_IND_3">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://23167c62-6739-4791-94a8-0fd8a34d125b/schema/main/table/gpkg_ogr_contents">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -442,60 +476,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/map.html" />
-    <entry file="file://$PROJECT_DIR$/plot_all_indian_disctrict_boundary_map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="e#17#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plot_indian_state_boundary_map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plot_indian_boundary_map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#17#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../property-rates-india/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1685">
-            <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../property-rates-india/99Acers_Rental_Price.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -513,15 +493,270 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../property-rates-india/Makaan_Rental_Price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" selection-start-line="27" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/geometery.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="120" selection-start-column="120" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/state_color.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/state.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testFolium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/convert_indian_geonames_data_to_sqlite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#87#106#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_indian_boundary_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maps/indian_state_boundary_map.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_all_indian_disctrict_boundary_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_indian_state_boundary_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../property-rates-india/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="18" lean-forward="true" selection-start-line="15" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../indian-ruling-parties/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../indian-ruling-parties/data/all_general_election_results_india.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+          <column index="6" width="100" />
+          <column index="7" width="100" />
+          <column index="8" width="100" />
+          <column index="9" width="100" />
+          <column index="10" width="100" />
+          <column index="11" width="100" />
+          <column index="12" width="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://23167c62-6739-4791-94a8-0fd8a34d125b/schema/main/table/gadm36_IND_3">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../indian-ruling-parties/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../indian-ruling-parties/data/IndianPoliticalPartyList.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../playground/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../playground/Bokeh/HelloWorldBokeh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../playground/Bokeh/cars_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../playground/Bokeh/cars.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../playground/Bokeh/cars_columnDatasource.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="20" lean-forward="true" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DataFront/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../playground/Bokeh/cars_tooltips.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../indian-political-donors/scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../indian-political-donors/Scrape_Donor_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#87#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../indian-ruling-parties/VisualizeRulingPartyHistory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_and_color_indian_state_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_map.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

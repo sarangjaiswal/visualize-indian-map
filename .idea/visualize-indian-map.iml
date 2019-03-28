@@ -6,6 +6,12 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="property-rates-india" />
     <orderEntry type="module" module-name="datafront" />
+    <orderEntry type="module" module-name="indian-ruling-parties" />
+    <orderEntry type="module" module-name="playground" />
+    <orderEntry type="module" module-name="indian-political-donors" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />
